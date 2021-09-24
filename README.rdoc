@@ -1,0 +1,5 @@
+= Fork of https://github.com/guilhermenoronha/redmine_percent_done_configuration
+
+== Additional features 
+
+ - compatibility with redmine version 4.2.2
